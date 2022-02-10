@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="turtlesim" type="turtlesim_node" name="turtlesim_node"/>
+    <node name="tb_controller" pkg="hw2" type="square_closedloop.py" output="screen"/>
+</launch>

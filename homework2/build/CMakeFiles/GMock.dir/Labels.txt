@@ -1,0 +1,13 @@
+# Target labels
+ GMock
+# Source files and their labels
+/home/pranava/gitHub/AuE8230Spring22_PranavaSwaroopa/homework2/build/CMakeFiles/GMock
+/home/pranava/gitHub/AuE8230Spring22_PranavaSwaroopa/homework2/build/CMakeFiles/GMock.rule
+/home/pranava/gitHub/AuE8230Spring22_PranavaSwaroopa/homework2/build/CMakeFiles/GMock-complete.rule
+/home/pranava/gitHub/AuE8230Spring22_PranavaSwaroopa/homework2/build/GMock-prefix/src/GMock-stamp/GMock-install.rule
+/home/pranava/gitHub/AuE8230Spring22_PranavaSwaroopa/homework2/build/GMock-prefix/src/GMock-stamp/GMock-mkdir.rule
+/home/pranava/gitHub/AuE8230Spring22_PranavaSwaroopa/homework2/build/GMock-prefix/src/GMock-stamp/GMock-download.rule
+/home/pranava/gitHub/AuE8230Spring22_PranavaSwaroopa/homework2/build/GMock-prefix/src/GMock-stamp/GMock-update.rule
+/home/pranava/gitHub/AuE8230Spring22_PranavaSwaroopa/homework2/build/GMock-prefix/src/GMock-stamp/GMock-patch.rule
+/home/pranava/gitHub/AuE8230Spring22_PranavaSwaroopa/homework2/build/GMock-prefix/src/GMock-stamp/GMock-configure.rule
+/home/pranava/gitHub/AuE8230Spring22_PranavaSwaroopa/homework2/build/GMock-prefix/src/GMock-stamp/GMock-build.rule

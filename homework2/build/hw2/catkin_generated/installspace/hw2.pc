@@ -1,0 +1,8 @@
+prefix=/home/pranava/gitHub/AuE8230Spring22_PranavaSwaroopa/homework2/install
+
+Name: hw2
+Description: Description of hw2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

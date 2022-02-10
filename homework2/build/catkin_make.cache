@@ -1,0 +1,2 @@
+hw2
+-DCATKIN_DEVEL_PREFIX=/home/pranava/gitHub/AuE8230Spring22_PranavaSwaroopa/homework2/devel -DCMAKE_INSTALL_PREFIX=/home/pranava/gitHub/AuE8230Spring22_PranavaSwaroopa/homework2/install -G Unix Makefiles

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/pranava/gitHub/AuE8230Spring22_PranavaSwaroopa/homework2/build/gmock/lib/libgtest.a  CMakeFiles/gtest.dir/src/gtest-all.cc.o
+/usr/bin/ranlib /home/pranava/gitHub/AuE8230Spring22_PranavaSwaroopa/homework2/build/gmock/lib/libgtest.a
